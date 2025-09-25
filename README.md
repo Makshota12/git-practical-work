@@ -1,2 +1,4 @@
-# git-practical-work
-Практическая работа по системе контроля версий Git
+"# Documentation" 
+"This is project documentation" 
+"## Installation" 
+"git clone https://github.com/..." 
